@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramazanf06
-- 👀 I’m interested in web development, data science and machine learning.
+- 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on web and Python projects.
 - 📫 My e-mail address is conramazankaratas@gmail.com
